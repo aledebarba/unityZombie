@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 56a59718ba8c7c0418aff312e32e2cd3
+timeCreated: 1520894741
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GF Ordner Inverted
+  fontNames:
+  - GF Ordner Inverted
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
